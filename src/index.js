@@ -1,13 +1,24 @@
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {BrowserRouter} from 'react-router-dom';
+
+import "./assets/css/bootstrap.min.css"
+import "./assets/css/lineicons.css"
+import "./assets/css/materialdesignicons.min.css"
+import "./assets/css/fullcalendar.css"
+import "./assets/css/main.css"
+
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
