@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hencework/static/css/main.de730fd0.chunk.css",
+    "main.js": "/hencework/static/js/main.495b0606.chunk.js",
+    "main.js.map": "/hencework/static/js/main.495b0606.chunk.js.map",
+    "runtime-main.js": "/hencework/static/js/runtime-main.64f0ddb1.js",
+    "runtime-main.js.map": "/hencework/static/js/runtime-main.64f0ddb1.js.map",
+    "static/js/2.021ebc51.chunk.js": "/hencework/static/js/2.021ebc51.chunk.js",
+    "static/js/2.021ebc51.chunk.js.map": "/hencework/static/js/2.021ebc51.chunk.js.map",
+    "static/js/3.c68e57ca.chunk.js": "/hencework/static/js/3.c68e57ca.chunk.js",
+    "static/js/3.c68e57ca.chunk.js.map": "/hencework/static/js/3.c68e57ca.chunk.js.map",
+    "index.html": "/hencework/index.html",
+    "static/css/main.de730fd0.chunk.css.map": "/hencework/static/css/main.de730fd0.chunk.css.map",
+    "static/js/2.021ebc51.chunk.js.LICENSE.txt": "/hencework/static/js/2.021ebc51.chunk.js.LICENSE.txt",
+    "static/media/lineicons.css": "/hencework/static/media/LineIcons.dd1368bb.svg",
+    "static/media/logo.2325f310.svg": "/hencework/static/media/logo.2325f310.svg",
+    "static/media/materialdesignicons.min.css": "/hencework/static/media/materialdesignicons-webfont.e9db4005.woff2",
+    "static/media/profile-image.a28a2d95.png": "/hencework/static/media/profile-image.a28a2d95.png",
+    "static/media/shape.7e430d0c.svg": "/hencework/static/media/shape.7e430d0c.svg",
+    "static/media/signin-image.df1cc814.svg": "/hencework/static/media/signin-image.df1cc814.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64f0ddb1.js",
+    "static/js/2.021ebc51.chunk.js",
+    "static/css/main.de730fd0.chunk.css",
+    "static/js/main.495b0606.chunk.js"
+  ]
+}
